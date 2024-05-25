@@ -1,3 +1,3 @@
 
 all: main.go
-	GOOS=linux GOARCH=mipsle GOMIPS=hardfloat /usr/local/tinygo/bin/tinygo build -no-debug  -o timelapse main.go
+	GOOS=linux GOARCH=mipsle GOMIPS=hardfloat go build -trimpath  -o timelapse main.go
