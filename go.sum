@@ -1,0 +1,8 @@
+github.com/pyk/byten v0.0.0-20140925233358-f847a130bf6d h1:/0nqYrqVyPTVDT2jPx9z9BZ+ItJWlWA9VITUGvNaZkI=
+github.com/pyk/byten v0.0.0-20140925233358-f847a130bf6d/go.mod h1:El8LdwAxb76Ih0mRmpu9uMVq+ajiqGSxmYiUe+nSr+w=
+github.com/rmasci/fileserver v1.4.0 h1:tyAbRPUtme3rtPV+/5XBTfNK4oLk7y+vg3v6tSHnwnc=
+github.com/rmasci/fileserver v1.4.0/go.mod h1:qw7NotitEIpQEQPgTKtv6n4cdv7qKhbPnZpt/p/xrmI=
+github.com/yuin/goldmark v1.7.1 h1:3bajkSilaCbjdKVsKdZjZCLBNPL9pYzrCakKaf4U49U=
+github.com/yuin/goldmark v1.7.1/go.mod h1:uzxRWxtg69N339t3louHJ7+O03ezfj6PlliRlaOzY1E=
+golang.org/x/text v0.8.0 h1:57P1ETyNKtuIjB4SRd15iJxuhj8Gc416Y78H3qgMh68=
+golang.org/x/text v0.8.0/go.mod h1:e1OnstbJyHTd6l/uOt8jFFHp6TRDWZR/bV3emEE/zU8=
